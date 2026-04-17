@@ -1,27 +1,33 @@
-<h1 align="center">Hi 👋, I'm Yash Chavan You can Call Me Vintage!</h1>
-<h3 align="center">Computer Engineering Student | Learning C, C++ & Python | Building Projects</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is I am Yash Chavan You can Call Me Vintage!
+==================================================================================================================================================================
 
-- 🌱 I’m currently learning **C/C++ & Python fundamentals**
+Computer Engineering Student | Learning C, C++ & Python | Building Projects
+---------------------------------------------------------------------------
 
-- 🤝 I’m looking for help with **Civic Eye Project Database Training**
+I’m currently learning C++ 💻 and Python 🐍, working on projects that strengthen my programming fundamentals and improve real-world problem-solving skills. I’m also exploring Full Stack Development 🌐, focusing on building complete applications from backend logic to frontend design.
 
-- 💬 Ask me about **C,Python Projects, Creative Software development**
+I don’t just write code — I focus on the thinking behind it 🧠, using abstract and creative problem-solving 🎨⚡ to build efficient and smart solutions.
 
-- 📫 How to reach me **chavhanyashanil@gmail.com**
+I’m open to collaboration 🤝, teamwork, and building projects with others to learn faster and gain real development experience. Alongside this, I’m also interested in Game Development 🎮 as a hobby because I enjoy creativity, design, and interactive experiences.
 
-- ⚡ Fun fact **I believe in the journey more than the destination**
+* 🌍  I'm based in INDIA
+* ✉️  You can contact me at [chavhanyashanil@gmail.com](mailto:chavhanyashanil@gmail.com)
+* 🧠  I'm currently learning Full Stack Development, DSA
+* 👥  I'm looking to collaborate on Web Applications 🌐 , Python Projects , Full Stack Projects ⚡
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash chavan" height="30" width="40" /></a>
-<a href="https://instagram.com/yash_chavan_2569 , mr.vintage_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_chavan_2569 , mr.vintage_25" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr.yintage , vintage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.yintage , vintage" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mrvintageyashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrvintageyashu" height="30" width="40" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### Socials
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvintageyashu&show_icons=true&locale=en" alt="mrvintageyashu" /></p>
+<p align="left"> <a href="https://www.github.com/mrvintageyashu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Yash Chavan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvintageyashu&" alt="mrvintageyashu" /></p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mrvintageyashu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvintageyashu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/mrvintageyashu/python-mastery-path-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrvintageyashu&repo=python-mastery-path-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
